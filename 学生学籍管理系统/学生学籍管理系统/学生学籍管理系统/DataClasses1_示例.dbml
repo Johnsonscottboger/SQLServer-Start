@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Student_Course" Class="DataClasses1_示例DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ACER-PC;Initial Catalog=Student_Course;Integrated Security=True" SettingsObjectName="学生学籍管理系统.Properties.Settings" SettingsPropertyName="Student_CourseConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Course" Member="Course">
+    <Type Name="Course">
+      <Column Name="Cno" Type="System.String" DbType="VarChar(15) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Cname" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="Cpno" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Ccredit" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SC" Member="SC">
+    <Type Name="SC">
+      <Column Name="Sno" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Cno" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Grade" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Student" Member="Student">
+    <Type Name="Student">
+      <Column Name="Sno" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Sname" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="Ssex" Type="System.String" DbType="VarChar(2) NOT NULL" CanBeNull="false" />
+      <Column Name="Sage" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Sdept" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

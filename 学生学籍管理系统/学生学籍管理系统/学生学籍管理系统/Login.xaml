@@ -1,0 +1,20 @@
+﻿<Window x:Class="学生学籍管理系统.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="登录" Height="420" Width="300" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow" ResizeMode="NoResize">
+    <Grid>
+        <Ellipse               
+                     Height="100" 
+                     Stroke="White" 
+                     Width="100" Margin="46,20,46,149" >
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="MySourse/contacts.png" Stretch="Uniform"/>
+            </Ellipse.Fill>
+        </Ellipse>
+        <TextBox x:Name="user" Text="" Height="20" Width="80" Margin="25,154,87,95"/>
+        <Button x:Name="register" Content="注册账户" Height="20" Width="50" Margin="117,154,25,95" Click="register_Click" Background="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}" BorderThickness="0"/>
+        <PasswordBox x:Name="password" Height="20" Width="80" Margin="25,185,87,64"/>
+        <Button x:Name="modify_password" Content="忘记密码" Height="20" Width="50" Margin="117,185,25,64" Click="modify_password_Click" Background="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}" BorderThickness="0" />
+        <Button x:Name="login" Content=" 登      录" FontSize="18" Height="30" Margin="75,270,75,69" Click="login_Click" Background="#FF08A2DB" BorderThickness="0"/>
+    </Grid>
+</Window>

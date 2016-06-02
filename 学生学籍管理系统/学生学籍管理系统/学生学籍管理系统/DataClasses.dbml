@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="学生学籍管理系统" Class="DataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ACER-PC;Initial Catalog=学生学籍管理系统;Integrated Security=True" SettingsObjectName="学生学籍管理系统.Properties.Settings" SettingsPropertyName="学生学籍管理系统ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.查询结果存储表" Member="查询结果存储表">
+    <Type Name="查询结果存储表">
+      <Column Name="学号" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="专业" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="班级" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="姓名" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="性别" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="籍贯" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="出生年月" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="家庭地址" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="联系电话" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="政治面貌" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="民族" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="奖罚情况" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="留级情况" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="[高等数学（上）]" Member="高等数学_上_" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="[高等数学（下）]" Member="高等数学_下_" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="概率论" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="线性代数" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="C语言程序设计" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="离散数学" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="序号" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.临时用户管理表" Member="临时用户管理表">
+    <Type Name="临时用户管理表">
+      <Column Name="学号" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="用户名" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="密码" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="序号" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.学生成绩表" Member="学生成绩表">
+    <Type Name="学生成绩表">
+      <Column Name="学号" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="专业" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="班级" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="姓名" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[高等数学（上）]" Member="高等数学_上_" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="[高等数学（下）]" Member="高等数学_下_" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="概率论" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="线性代数" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="c语言程序设计" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="离散数学" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="序号" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.学生档案表" Member="学生档案表">
+    <Type Name="学生档案表">
+      <Column Name="学号" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="专业" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="班级" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="姓名" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="性别" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="民族" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="籍贯" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="家庭住址" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="联系电话" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="奖罚情况" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="留级情况" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="序号" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.学生信息表" Member="学生信息表">
+    <Type Name="学生信息表">
+      <Column Name="学号" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="专业" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="班级" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="姓名" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="性别" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="籍贯" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="出生年月" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="家庭住址" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="联系电话" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="政治面貌" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="序号" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.用户管理表" Member="用户管理表">
+    <Type Name="用户管理表">
+      <Column Name="学号" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="用户名" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="密码" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="是否为教师账户" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

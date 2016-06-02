@@ -1,0 +1,44 @@
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\bin\Debug\学生学籍管理系统.exe.config
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\MainWindow.baml
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\WelcomePage.baml
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\MainWindow.g.cs
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\WelcomePage.g.cs
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\App.g.cs
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\学生学籍管理系统_MarkupCompile.cache
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\bin\Debug\学生学籍管理系统.exe
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\bin\Debug\学生学籍管理系统.pdb
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\学生学籍管理系统.g.resources
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\学生学籍管理系统.Properties.Resources.resources
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\学生学籍管理系统.csproj.GenerateResource.Cache
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\学生学籍管理系统.exe
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\学生学籍管理系统.pdb
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Login.baml
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Login.g.cs
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\StudentAchievement.baml
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\StudentAddmin.baml
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\StudentFile.baml
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\StudentInfo.baml
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\StudentAchievement.g.cs
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\StudentAddmin.g.cs
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\StudentFile.g.cs
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\StudentInfo.g.cs
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\ModifyPassword.baml
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Selection.baml
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Select_Result.baml
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\ModifyPassword.g.cs
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Selection.g.cs
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Select_Result.g.cs
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Register.baml
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Register.g.cs
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Add_StudentAchievement.baml
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Add_StudentFile.baml
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Add_StudentInfo.baml
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Add_StudentAchievement.g.cs
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Add_StudentFile.g.cs
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Add_StudentInfo.g.cs
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\学生学籍管理系统.csprojResolveAssemblyReference.cache
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\detail.baml
+F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\detail.g.cs
+D:\OneDrive\数据结构和数据库\数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\bin\Debug\学生学籍管理系统.exe.config
+D:\OneDrive\数据结构和数据库\数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\学生学籍管理系统.exe
+D:\OneDrive\数据结构和数据库\数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\学生学籍管理系统.pdb

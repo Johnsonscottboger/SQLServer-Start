@@ -1,0 +1,36 @@
+﻿<Window x:Class="学生学籍管理系统.Register"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="注册" Height="550" Width="350" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Ellipse Grid.Column="0" Grid.Row="0" Grid.RowSpan="2" Height="100" Width="100">
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="MySourse/contacts.png" Stretch="Uniform"/>
+            </Ellipse.Fill>
+        </Ellipse>
+        <TextBlock FontSize="14" Grid.Column="0" Grid.Row="2"  TextWrapping="Wrap" Text="请输入账号：" VerticalAlignment="Center" Height="24" Margin="45,15,164,10"/>
+        <TextBox x:Name="usernumber" Grid.Column="0" Grid.Row="2" VerticalAlignment="Center" Margin="145,15,49,17"/>
+        <TextBlock Grid.Column="0" Grid.Row="3" FontSize="14" TextWrapping="Wrap" Text="请输入密码：" VerticalAlignment="Center" Height="24" Margin="45,13,164,12"/>
+        <PasswordBox x:Name="password" Grid.Column="0" Grid.Row="3" VerticalAlignment="Center" Margin="145,16,49,16" />
+        <TextBlock FontSize="14" Grid.Column="0" Grid.Row="4" TextWrapping="Wrap" Text="请确认密码：" VerticalAlignment="Center" RenderTransformOrigin="0.417,3.733" Height="25" Margin="45,12,164,12"/>
+        <PasswordBox x:Name="password1" Grid.Column="0" Grid.Row="4" VerticalAlignment="Center" Margin="145,16,49,16" />
+        <TextBlock Text="教师或管理员请打勾：" Grid.Column="0" Grid.Row="6" VerticalAlignment="Center" Margin="45,17,0,17"/>
+        <CheckBox x:Name="check" Grid.Column="0" Grid.Row="6" Height="20" Margin="170,25,139,21"  />
+        <TextBlock Text="学生账户请填学号:" Height="20" Grid.Column="0" Grid.Row="5" Margin="45,14,139,15"/>
+        <TextBox x:Name="xuehao" Height="20" VerticalAlignment="Center" Grid.Row="5" Margin="145,19,49,20"/>
+        <Button x:Name="yes" Content="确   认" FontSize="18"  Grid.Row="7" RenderTransformOrigin="0.462,3.818" VerticalAlignment="Center" HorizontalAlignment="Center" Width="200" Click="yes_Click" Background="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}" Height="38" Margin="45,0,49,11"/>
+    </Grid>
+</Window>

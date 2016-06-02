@@ -1,0 +1,71 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace 学生学籍管理系统
+{
+    /// <summary>
+    /// Add_StudentInfo.xaml 的交互逻辑
+    /// </summary>
+    public partial class Add_StudentInfo : Page
+    {
+        public Add_StudentInfo()
+        {
+            InitializeComponent();
+        }
+
+        private void Add_SI_btn_Click(object sender, RoutedEventArgs e)
+        {
+                DataClassesDataContext db=new DataClassesDataContext ();
+                bool bReturn = db.学生信息表.Any(p => p.学号 == xuehao.Text);
+                if (!bReturn)
+                {
+                    // MessageBox.Show("学号不存在");
+                    //添加
+                    var newStudentInfo = new 学生信息表
+                    {
+                        学号 = xuehao.Text,
+                        专业 = zhuanye.Text,
+                        班级 = banji.Text,
+                        姓名 = xingming.Text,
+                        性别 = xingbie.Text,
+                        籍贯 = jiguan.Text,
+                        出生年月 = birthday.Text,
+                        家庭住址 = jiating.Text,
+                        联系电话 = lianxi.Text,
+                        政治面貌 = zhenghi.Text
+                    };
+                    db.学生信息表.InsertOnSubmit(newStudentInfo);
+                    db.SubmitChanges();
+                }
+                else
+                {
+                    //如果学号存在，修改操作
+                    学生信息表 ch=db.学生信息表.Where(a=>a.学号==xuehao.Text).First();
+                    ch.学号 = xuehao.Text;
+                    ch.专业 = zhuanye.Text;
+                    ch.班级 = banji.Text;
+                    ch.姓名 = xingming.Text;
+                    ch.性别 = xingbie.Text;
+                    ch.籍贯 = jiguan.Text;
+                    ch.出生年月 = birthday.Text;
+                    ch.家庭住址 = jiating.Text;
+                    ch.联系电话 = lianxi.Text;
+                    ch.政治面貌 = zhenghi.Text;
+                    db.SubmitChanges();
+                }
+                MessageBox.Show("已完成操作");
+        }
+    }
+}

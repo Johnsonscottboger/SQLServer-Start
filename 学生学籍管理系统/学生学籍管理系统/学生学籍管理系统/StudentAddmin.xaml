@@ -1,0 +1,21 @@
+﻿<Page x:Class="学生学籍管理系统.StudentAddmin"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" d:DesignWidth="500"
+	Title="StudentAddmin" Height="400">
+
+    <Grid>
+        <Ellipse  Height="100" 
+                  Width="100" Margin="200,45,200,255">
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="MySourse/contacts.png" Stretch="Uniform"/>
+            </Ellipse.Fill>
+        </Ellipse>
+        <TextBlock x:Name="user" Text="当前登录账户" FontSize="18" TextAlignment="Center" Height="20" Width="130" HorizontalAlignment="Center" Margin="190,175,180,205"/>
+        <!--重置密码为“000000”成功后给个弹窗确定成功-->
+        <Button x:Name="resetting" Content="重置密码" Height="30" Margin="160,225,160,145" Click="resetting_Click" BorderThickness="0" Background="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+        <Button x:Name="modify_password" Content="修改密码" Height="30" Margin="160,305,160,65" Click="modify_password_Click" Background="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}" BorderThickness="0" />
+    </Grid>
+</Page>
