@@ -1,3 +1,3 @@
 # SQLServer-Start
 SQLServer课程设计，客户端使用WPF，主要运用LINQ进行数据操作。
-![](https://)  
+![](https://github.com/waning1995/SQLServer-Start/blob/master/%E5%AD%A6%E7%94%9F%E5%AD%A6%E7%B1%8D%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/%E5%AD%A6%E7%94%9F%E5%AD%A6%E7%B1%8D%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/%E5%AD%A6%E7%94%9F%E5%AD%A6%E7%B1%8D%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/Screenshots/QQ%E6%88%AA%E5%9B%BE20160626225426.png)  
