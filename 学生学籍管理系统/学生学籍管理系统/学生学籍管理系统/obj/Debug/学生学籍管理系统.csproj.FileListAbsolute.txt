@@ -42,3 +42,44 @@ F:\OneDrive\大二 数据库\数据库课程设计_王宁波\学生学籍管理�
 D:\OneDrive\数据结构和数据库\数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\bin\Debug\学生学籍管理系统.exe.config
 D:\OneDrive\数据结构和数据库\数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\学生学籍管理系统.exe
 D:\OneDrive\数据结构和数据库\数据库\数据库课程设计_王宁波\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\学生学籍管理系统.pdb
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\bin\Debug\学生学籍管理系统.exe.config
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\学生学籍管理系统.exe
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\学生学籍管理系统.pdb
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\bin\Debug\学生学籍管理系统.exe
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\bin\Debug\学生学籍管理系统.pdb
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\学生学籍管理系统.csprojResolveAssemblyReference.cache
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Add_StudentAchievement.baml
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Add_StudentFile.baml
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Add_StudentInfo.baml
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\detail.baml
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Login.baml
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\MainWindow.baml
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\ModifyPassword.baml
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Register.baml
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Selection.baml
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Select_Result.baml
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\StudentAchievement.baml
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\StudentAddmin.baml
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\StudentFile.baml
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\StudentInfo.baml
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\WelcomePage.baml
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Add_StudentAchievement.g.cs
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Add_StudentFile.g.cs
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Add_StudentInfo.g.cs
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\detail.g.cs
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Login.g.cs
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\MainWindow.g.cs
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\ModifyPassword.g.cs
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Register.g.cs
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Selection.g.cs
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\Select_Result.g.cs
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\StudentAchievement.g.cs
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\StudentAddmin.g.cs
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\StudentFile.g.cs
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\StudentInfo.g.cs
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\WelcomePage.g.cs
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\App.g.cs
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\学生学籍管理系统_MarkupCompile.cache
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\学生学籍管理系统.g.resources
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\学生学籍管理系统.Properties.Resources.resources
+E:\源代码管理器\Source\Repos\SQLServerStart\学生学籍管理系统\学生学籍管理系统\学生学籍管理系统\obj\Debug\学生学籍管理系统.csproj.GenerateResource.Cache
